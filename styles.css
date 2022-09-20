@@ -20,6 +20,10 @@ body {
    margin-left: -30em;
 }
 
+.key:hover {
+    background-color: #6495ED;
+}
+
 .white-keys {
     display: flex;
 }
@@ -30,6 +34,7 @@ body {
     display: flex;
     gap: 4em;
     justify-content: space-between;
+    border: 1px solid #000;
 }
 
 
